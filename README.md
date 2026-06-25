@@ -2,7 +2,7 @@
   <img src="https://github.com/pancakehoneyb/pancakehoneyb/blob/main/github-header-banner%20(1).png" width="100%" alt="banner"/>
 </div>
 
-Hi! My name is Ísis Barbiere!
+Welcome to my page! 🌞
 ======================================================================================================================================
 
 🔭 Data Science & AI Student | Machine Learning Researcher | Astronomy and Physics Enthusiast
