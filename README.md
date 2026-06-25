@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/pancakehoneyb/pancakehoneyb/blob/main/github-header-banner%20(1).png" width="100%" alt="banner"/>
+</div>
+
 Hi! My name is Ísis Barbiere!
 ======================================================================================================================================
 
